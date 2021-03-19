@@ -6460,6 +6460,16 @@ PrefabInstance:
       propertyPath: m_SortingOrder
       value: 3
       objectReference: {fileID: 0}
+    - target: {fileID: 8272681167461963231, guid: 83304d8c566b3314582aa65a82946e54,
+        type: 3}
+      propertyPath: m_UiScaleMode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8272681167461963231, guid: 83304d8c566b3314582aa65a82946e54,
+        type: 3}
+      propertyPath: m_MatchWidthOrHeight
+      value: 0.5
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 83304d8c566b3314582aa65a82946e54, type: 3}
 --- !u!114 &1504602474 stripped
@@ -10707,6 +10717,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Enabled
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8272681167461963231, guid: 83304d8c566b3314582aa65a82946e54,
+        type: 3}
+      propertyPath: m_UiScaleMode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8272681167461963231, guid: 83304d8c566b3314582aa65a82946e54,
+        type: 3}
+      propertyPath: m_MatchWidthOrHeight
+      value: 0.5
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 83304d8c566b3314582aa65a82946e54, type: 3}
