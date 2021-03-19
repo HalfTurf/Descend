@@ -3,4 +3,4 @@
  
  ![Descend Preview Image](https://user-images.githubusercontent.com/50239452/111804788-4eb12100-88c8-11eb-9a6a-2075b7c91bc5.gif)
  
-[Scripts](https://github.com/HalfTurf/Descend/tree/main/Unity%20Project/Assets/Scripts)
+[Click for scripts.](https://github.com/HalfTurf/Descend/tree/main/Unity%20Project/Assets/Scripts)
